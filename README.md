@@ -1,24 +1,21 @@
 # Google-Bootcamp-2024
 
--Muhammed Talha Yayla
+# Takım İsmi
+Grup 104 Unity Takımı
 
--Mustafa YAĞIZ
+# Takım Rolleri
+Muhammed Talha YAYLA - Developer
+Mustafa YAĞIZ - Developer
+Özgün Öykü ELÇİTEPE - Product Owner
+Özge YILMAZ - Scrum Master
 
--Özgün Öykü Elçitepe
+# Ürün İsmi
+Elixir Emporium
 
--Özge Yılmaz
+# Ürün Açıklaması
 
+# Ürün Özellikleri
 
-● Takım İsmi
+# Hedef Kitle
 
-● Takım Rolleri
-
-● Ürün İsmi
-
-● Ürün Açıklaması
-
-● Ürün Özellikleri
-
-● Hedef Kitle
-
-● Product Backlog
+# Product Backlog
