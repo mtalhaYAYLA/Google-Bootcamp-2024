@@ -22,5 +22,10 @@ Elixir Emporium, oyuncuların bir iksir dükkanında satıcı rolünde olduklar�
 - 3D
 
 # Hedef Kitle
+- Genç yetişkinler ve yetişkinler
+- Hikaye odaklı oyunları sevenler
+- Bulmaca ve zeka oyunu sevenler
+- Mobil ve PC oyuncuları
+- Twitch ve Youtube yayıncıları, oyun odaklı içerik üreticileri
 
 # Product Backlog
