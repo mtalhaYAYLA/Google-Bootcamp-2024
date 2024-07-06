@@ -21,6 +21,7 @@ Elixir Emporium, oyuncuların bir iksir dükkanında satıcı rolünde olduklar�
 # Ürün Özellikleri
 - 3D
 - Singleplayer
+- Simülasyon
 
 # Hedef Kitle
 - Genç yetişkinler ve yetişkinler
