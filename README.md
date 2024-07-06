@@ -18,6 +18,7 @@ Elixir Emporium
 # Ürün Açıklaması
 
 # Ürün Özellikleri
+- 3D
 
 # Hedef Kitle
 
