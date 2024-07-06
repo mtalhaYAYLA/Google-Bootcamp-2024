@@ -29,3 +29,4 @@ Elixir Emporium, oyuncuların bir iksir dükkanında satıcı rolünde olduklar�
 - Twitch ve Youtube yayıncıları, oyun odaklı içerik üreticileri
 
 # Product Backlog
+https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363C/oua-bootcamp
