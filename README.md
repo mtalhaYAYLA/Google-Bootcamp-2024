@@ -58,7 +58,7 @@ https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363
 <img width="477" alt="wp ss 3" src="https://github.com/mtalhaYAYLA/Google-Bootcamp-2024/assets/170249016/db7ae95d-c0a1-46b1-b7f2-8768a3e79909">
 
 
--
+--
 - **Sprint Board Update** 
 <img width="1079" alt="trello" src="https://github.com/mtalhaYAYLA/Google-Bootcamp-2024/assets/170249016/bd531e9e-f1e2-4f3f-98cc-d63d90b7140c">
 
