@@ -16,7 +16,7 @@ Mustafa YAĞIZ - Developer
 Elixir Emporium
 
 # Ürün Açıklaması
-Elixir Emporium, oyuncuların bir iksir dükkanında satıcı rolünde oldukları, dükkana gelip ilginç hikayelerini anlatan müşterilere satışta bulunan çeşitli iksirlerden en uygun olanı doğru ham madde kombinasyonunu kullanarak hazırlayıp sunmayı amaçladıkları bir oyundur.
+Elixir Emporium, oyuncuların bir iksir dükkanında satıcı rolünde oldukları, çeşitli iksirleri üretip ne işe yaradıklarını deneyebildikleri bir simülasyondur. Oyuncular, doğru ham madde kombinasyonlarını kullanarak çeşitli iksirler hazırlar ve bu iksirlerin ilginç etkilerini keşfeder. 
 
 # Ürün Özellikleri
 - 3D
@@ -70,9 +70,14 @@ https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363
 ![WhatsApp Image 2024-07-04 at 22 55 51](https://github.com/mtalhaYAYLA/Google-Bootcamp-2024/assets/170249016/21f033c3-4747-41e7-80b8-71e682286395)
 
 - **Sprint Review**
+  * Gökyüzü shader kullanarak oluşturuldu.
+  * İksirlerin etkilerini kodlandı ve assetlere ekledi.
+  * UI assetleri bulundu ve projeye dahil edildi.
   * Sprint review katılımcıları: Özgün Öykü Elçitepe, Özge Yılmaz, Mustafa Yağız, Muhammed Talha Yayla
 - **Sprint Retrospective:**
-  * Sprint retsrospective katılımcıları: Özgün Öykü Elçitepe, Özge Yılmaz, Mustafa Yağız, Muhammed Talha Yayla
+  * Ekip üyelerinin gelecek sprintlerde daha aktif olmasına vurgu yapılmıştır.
+  * Takım toplantılarının daha düzenli ve planlı olması gerektiğine karar verilmiştir.
+ 
 
 
 
