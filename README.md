@@ -63,7 +63,7 @@ https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363
 <img width="1079" alt="trello" src="https://github.com/mtalhaYAYLA/Google-Bootcamp-2024/assets/170249016/bd531e9e-f1e2-4f3f-98cc-d63d90b7140c">
 
 - **Ürün Durumu:** Ekran Görüntüleri
-- ![WhatsApp Image 2024-06-29 at 21 19 47 (1)](https://github.com/mtalhaYAYLA/Google-Bootcamp-2024/assets/170249016/8b01d34e-8f81-4819-9002-ecad27869ccb)
+![WhatsApp Image 2024-06-29 at 21 19 47 (1)](https://github.com/mtalhaYAYLA/Google-Bootcamp-2024/assets/170249016/8b01d34e-8f81-4819-9002-ecad27869ccb)
 ![WhatsApp Image 2024-06-29 at 21 19 46](https://github.com/mtalhaYAYLA/Google-Bootcamp-2024/assets/170249016/16710e68-a46c-4cb9-a7ac-fedd378bf1dd)
 ![WhatsApp Image 2024-06-29 at 21 19 47](https://github.com/mtalhaYAYLA/Google-Bootcamp-2024/assets/170249016/e0ce7cff-17d3-4133-a965-78157352c945)
 ![WhatsApp Image 2024-07-04 at 22 55 48](https://github.com/mtalhaYAYLA/Google-Bootcamp-2024/assets/170249016/c2ca887a-49a6-4421-81d5-d08a6dc14469)
