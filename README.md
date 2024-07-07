@@ -38,7 +38,9 @@ https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363
 - **Puan tamamlama mantığı:** Süreç boyunca tamamlanması planan toplam sprint puanı 34 olarak belirlenmiştir. İlk sprintte hedefin 10 puanlık kısmı tamamlanmıştır.
 - **Daily Scrum:** Daily Scrum toplantıları sağladığı iletişim kolaylığı sebebiyle whatsapp üzerinden sağlanmıştır.
 
-  Whatsapp Daily Scrum Ekran Görüntüleri
+  
+
+ *Whatsapp Daily Scrum Ekran Görüntüleri*
 
 <img width="818" alt="wp ss " src="https://github.com/mtalhaYAYLA/Google-Bootcamp-2024/assets/170249016/e34fb71d-607c-4b4f-9326-3e79f7218222">
 
