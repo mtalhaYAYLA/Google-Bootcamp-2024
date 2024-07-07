@@ -69,7 +69,8 @@ https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363
 ![WhatsApp Image 2024-07-04 at 22 55 48](https://github.com/mtalhaYAYLA/Google-Bootcamp-2024/assets/170249016/c2ca887a-49a6-4421-81d5-d08a6dc14469)
 ![WhatsApp Image 2024-07-04 at 22 55 51](https://github.com/mtalhaYAYLA/Google-Bootcamp-2024/assets/170249016/21f033c3-4747-41e7-80b8-71e682286395)
 
-
+-**Sprint Review**
+-Sprint review katılımcıları: Özgün Öykü Elçitepe, Özge Yılmaz, Mustafa Yağız, Muhammed Talha Yayla
 
 
 
