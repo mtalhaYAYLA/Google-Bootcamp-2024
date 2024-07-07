@@ -36,6 +36,13 @@ https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363
 
 # SPRINT 1
 - **Puan tamamlama mantığı:** Süreç boyunca tamamlanması planan toplam sprint puanı 34 olarak belirlenmiştir. İlk sprintte hedefin 10 puanlık kısmının bitirilmesi planlanmış ve hedefe ulaşılmıştır.
+  
+- **Sprint Notları**
+- Product Owner rolü için Özgün Öykü Elçitepe seçildi.
+- Yapılacakların takibi için Trello kullanılması kararlaştırıldı.
+- Kullanıcak assetlerin low poly olmasına karar verildi.
+
+  
 - **Daily Scrum:** Daily Scrum toplantıları sağladığı iletişim kolaylığı sebebiyle whatsapp üzerinden sağlanmıştır.
 
   
