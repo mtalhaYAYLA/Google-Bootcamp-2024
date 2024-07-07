@@ -35,7 +35,7 @@ Elixir Emporium, oyuncuların bir iksir dükkanında satıcı rolünde olduklar�
 https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363C/oua-bootcamp
 
 # SPRINT 1
-- **Puan tamamlama mantığı:** Süreç boyunca tamamlanması planan toplam sprint puanı 34 olarak belirlenmiştir. İlk sprintte hedefin 10 puanlık kısmı tamamlanmıştır.
+- **Puan tamamlama mantığı:** Süreç boyunca tamamlanması planan toplam sprint puanı 34 olarak belirlenmiştir. İlk sprintte hedefin 10 puanlık kısmının bitirilmesi planlanmış ve hedefe ulaşılmıştır.
 - **Daily Scrum:** Daily Scrum toplantıları sağladığı iletişim kolaylığı sebebiyle whatsapp üzerinden sağlanmıştır.
 
   
