@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5109427d7327845b2ba57b271c951d00
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - upscaleSound: {fileID: 8300000, guid: 179fdc6de818f9540b7fb2c94d5a28ae, type: 3}
+  - colorizedSound: {fileID: 8300000, guid: 179fdc6de818f9540b7fb2c94d5a28ae, type: 3}
+  - downscaleSound: {fileID: 8300000, guid: 179fdc6de818f9540b7fb2c94d5a28ae, type: 3}
+  - elixirMixSound: {fileID: 8300000, guid: 179fdc6de818f9540b7fb2c94d5a28ae, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
