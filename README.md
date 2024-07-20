@@ -79,10 +79,33 @@ https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363
   * Takım toplantılarının daha düzenli ve planlı olması gerektiğine karar verilmiştir.
  
 
+# SPRINT 2 
 
+- **Puan tamamlama mantığı:** İkinci sprintte hedefin 12 puanlık kısmının bitirilmesi planlanmış ve hedefe ulaşılmıştır.
+  
+- **Sprint Notları**
+  * 
+  
+- **Daily Scrum:** Daily Scrum toplantıları sağladığı iletişim kolaylığı sebebiyle whatsapp üzerinden sağlanmıştır.
 
+  
 
+ *Whatsapp Daily Scrum Ekran Görüntüleri*
 
+<img width="689" alt="2 wp ss" src="https://github.com/user-attachments/assets/9fdaee4e-0874-4f50-8806-87944b556072">
+<img width="676" alt="2 wp ss 2" src="https://github.com/user-attachments/assets/fb92a133-da8d-4d8f-85ed-94c07e3198f9">
 
+- **Sprint Board Update** 
+<img width="1075" alt="trello 2" src="https://github.com/user-attachments/assets/334cea36-d609-42a5-8fca-48c94dd653ee">
 
-
+- **Ürün Durumu:** Ekran Görüntüleri
+- 
+- **Sprint Review**
+  * Gece gündüz döngüsü yazıldı.
+  * Mekan tasarımı yapıldı
+  * Sesler eklendi.
+  * Sprint review katılımcıları: Özgün Öykü Elçitepe, Özge Yılmaz, Mustafa Yağız, Muhammed Talha Yayla
+    
+- **Sprint Retrospective:**
+  * Ekip üyelerinin gelecek sprintlerde daha aktif olmasına vurgu yapılmıştır.
+  * Takım toplantılarının daha düzenli ve planlı olması gerektiğine karar verilmiştir.
