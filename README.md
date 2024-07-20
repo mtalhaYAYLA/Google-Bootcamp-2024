@@ -99,7 +99,9 @@ https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363
 <img width="1075" alt="trello 2" src="https://github.com/user-attachments/assets/334cea36-d609-42a5-8fca-48c94dd653ee">
 
 - **Ürün Durumu:** Ekran Görüntüleri
-- 
+ ![WhatsApp Image 2024-07-20 at 16 44 23](https://github.com/user-attachments/assets/8bb0575c-ff70-410c-9cce-b29729d9b686)
+ ![WhatsApp Image 2024-07-20 at 16 45 23](https://github.com/user-attachments/assets/d3cac225-50b1-4184-be29-18bfd290df46)
+
 - **Sprint Review**
   * Gece gündüz döngüsü yazıldı.
   * Mekan tasarımı yapıldı
