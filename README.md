@@ -83,9 +83,6 @@ https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363
 
 - **Puan tamamlama mantığı:** İkinci sprintte hedefin 12 puanlık kısmının bitirilmesi planlanmış ve hedefe ulaşılmıştır.
   
-- **Sprint Notları**
-  * 
-  
 - **Daily Scrum:** Daily Scrum toplantıları sağladığı iletişim kolaylığı sebebiyle whatsapp üzerinden sağlanmıştır.
 
   
