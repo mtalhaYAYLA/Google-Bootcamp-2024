@@ -108,3 +108,33 @@ https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363
 - **Sprint Retrospective:**
   * Ekip üyelerinin gelecek sprintlerde daha aktif olmasına vurgu yapılmıştır.
   * Takım toplantılarının daha düzenli ve planlı olması gerektiğine karar verilmiştir.
+ 
+  * # SPRINT 3
+
+- **Puan tamamlama mantığı:** Üçüncü sprintte hedefin 12 puanlık kısmının bitirilmesi planlanmış ve hedefe ulaşılmıştır. Böylece başlangıçta hedeflenen toplam 34 puana ulaşılmıştır.
+  
+- **Daily Scrum:** Daily Scrum toplantıları sağladığı iletişim kolaylığı sebebiyle whatsapp üzerinden sağlanmıştır.
+
+  
+
+ *Whatsapp Daily Scrum Ekran Görüntüleri*
+ 
+<img width="715" alt="Ekran görüntüsü 2024-08-01 000128" src="https://github.com/user-attachments/assets/32c069bb-6119-4a02-8094-1bc135bb4b39">
+
+
+- **Sprint Board Update** 
+<img width="1075" alt="trello 2" src="https://github.com/user-attachments/assets/334cea36-d609-42a5-8fca-48c94dd653ee">
+
+- **Ürün Durumu:** Ekran Görüntüleri
+![WhatsApp Image 2024-07-24 at 16 12 06](https://github.com/user-attachments/assets/2d23010b-c117-4f36-a424-d2ad81282c18)
+
+- **Sprint Review**
+  * Grubun ismine karar verildi.
+  * Oyun giriş ekranı tasarlandı.
+  * Ürün çıktısı alındı.
+  * Sprint review katılımcıları: Özgün Öykü Elçitepe, Özge Yılmaz, Mustafa Yağız, Muhammed Talha Yayla
+    
+- **Sprint Retrospective:**
+  * Ekip üyeleri arasındaki iletişimin devam etmesine vurgu yapılmıştır.
+ 
+
