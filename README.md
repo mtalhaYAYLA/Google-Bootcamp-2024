@@ -127,6 +127,8 @@ https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363
 
 - **Ürün Durumu:** Ekran Görüntüleri
 ![WhatsApp Image 2024-07-24 at 16 12 06](https://github.com/user-attachments/assets/2d23010b-c117-4f36-a424-d2ad81282c18)
+![image](https://github.com/user-attachments/assets/4f13c2df-343e-4491-9985-2c7ee133d277)
+![image](https://github.com/user-attachments/assets/1ed79fba-04d4-4a86-9fbf-0ff41749d4fb)
 
 - **Sprint Review**
   * Grubun ismine karar verildi.
