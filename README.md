@@ -123,7 +123,8 @@ https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363
 
 
 - **Sprint Board Update** 
-<img width="1075" alt="trello 2" src="https://github.com/user-attachments/assets/334cea36-d609-42a5-8fca-48c94dd653ee">
+<img width="1076" alt="Ekran görüntüsü 2024-08-01 124308" src="https://github.com/user-attachments/assets/4b67cd5b-ff2b-4df5-8a42-2d387aaee864">
+
 
 - **Ürün Durumu:** Ekran Görüntüleri
 ![WhatsApp Image 2024-07-24 at 16 12 06](https://github.com/user-attachments/assets/2d23010b-c117-4f36-a424-d2ad81282c18)
